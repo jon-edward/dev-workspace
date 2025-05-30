@@ -18,8 +18,7 @@ jobs:
 
       - name: Build packages
         run: |
-          automotore -r requirements.txt \
-           -o dev-packages.pyz
+          automotore -r requirements.txt -o dev-packages.pyz
 
       - name: Test installation
         run: |
