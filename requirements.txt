@@ -1,0 +1,10 @@
+setuptools
+spyder 
+numpy 
+scipy 
+pandas 
+matplotlib 
+sympy 
+cython 
+openpyxl 
+scikit-learn 
