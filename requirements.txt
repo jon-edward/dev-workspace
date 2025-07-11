@@ -1,11 +1,6 @@
-setuptools
-spyder 
 numpy 
-scipy 
 pandas 
-matplotlib 
-sympy 
-cython 
+matplotlib  
 openpyxl 
 scikit-learn 
-mypy
+nltk
